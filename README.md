@@ -124,8 +124,7 @@ Pclass 等
 
 ### EDA示例：不同性别的生还情况
 
-![Gender Survival](figures/gender_survival.png)
-
+![Gender Survival](titanic/figures/gender_survival.png)
 
 ## 模型训练与评估
 
@@ -165,7 +164,8 @@ Logistic Regression AUC ≈ 0.879
 
 ### ROC示例
 
-![ROC Curve](figures/roc_curve.png)
+![Gender Survival](titanic/figures/roc_curve.png)
+
 
 ## 预测并生成可提交文件
 
